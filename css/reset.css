@@ -5,3 +5,5 @@ img{width:100%;display:block;}
 a{text-decoration:none;}
 .clearfix{*zoom:1;}
 .clearfix:after{display:table;clear:both;content:'';}
+.fl{float:left;}
+.fr{float:right;}
